@@ -2,7 +2,7 @@
 
 Página feita durante estudo de animações feitas com CSS3.
 
-Deploy: https://ingridaquilino.netlify.app/
+Deploy: https://max-animationcss.netlify.app/
 
 ## 🚀 Instruções
 
