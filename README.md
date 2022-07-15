@@ -1,6 +1,6 @@
 # Animação feita em CSS
 
-Página feita durante estudo de animações feitas com CSS3.
+Página feita durante estudo de animações utilizando CSS3.
 
 Deploy: https://max-animationcss.netlify.app/
 
